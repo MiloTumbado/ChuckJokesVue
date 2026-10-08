@@ -6,6 +6,6 @@ Abrir index.html o ejecutar `php -S 127.0.0.1:8913` en esta carpeta. Las librer�
 
 ## Tarea 10
 
-El commit Task10 convierte la lista en un componente chuck-card con props icon_url y value. col-12 col-md-4 muestra tres tarjetas desde 768 px y una por fila en pantallas pequeñas. Cinco tarjetas producen filas de tres y dos. La imagen conserva la URL de la consigna y necesita conexión a Internet. actividad12.html permite consultar la versión de lista.
+El commit Task10 convierte la lista en un componente chuck-card con props icon_url y value. col-12 col-md-4 muestra tres tarjetas desde 768 px y una por fila en pantallas pequeñas. Cinco tarjetas producen filas de tres y dos. La imagen conserva la URL de la consigna; si falla, carga una copia local del mismo avatar oficial. Fuente y licencia adjuntas. actividad12.html permite consultar la versión de lista.
 
 Fuentes: https://v2.vuejs.org/v2/guide/list.html y https://getbootstrap.com/docs/4.6/layout/grid/
